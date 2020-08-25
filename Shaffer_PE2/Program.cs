@@ -17,40 +17,40 @@ namespace Shaffer_PE2
         static void Main(string[] args)
         {
             // declare int counter
-            // ------ START FIX ------
-            // Must have a semicolon
+            // ------ START FIX 1 ------
+            // Compile-Time Error: Must have a semicolon
             //int i = 0
             int i = 0;
-            // ------ END FIX ------
+            // ------ END FIX 1 ------
 
             // declare string to hold all numbers
             string allNumbers = null;
 
             // loop through the numbers 1 through 10
-            // ------ START FIX ------
-            // Will not reach 10
+            // ------ START FIX 2 ------
+            // Logic Error: Will not reach 10
             //for (i = 1; i < 10; ++i) {
             for (i = 1; i <= 10; ++i)
             {
-            // ------ END FIX ------
+            // ------ END FIX 2 ------
 
                 // declare string to hold all numbers
-                // ------ START FIX ------
-                // Wrong scope
+                // ------ START FIX 3 ------
+                // Compile-Time Error: Wrong scope
                 //string allNumbers = null;
                 // Moved to line 27
-                // ------ END FIX ------
+                // ------ END FIX 3 ------
 
                 // output explanation of calculation
-                // ------ START FIX ------
-                // String not formatted correctly
+                // ------ START FIX 4 ------
+                // Compile-Time Error: String not formatted correctly
                 //Console.Write(i + "/" + i - 1 + " = ");
                 Console.Write(i + "/" + (i - 1) + " = ");
-                // ------ END FIX ------
+                // ------ END FIX 4 ------
 
                 // output the calculation based on the numbers
-                // ------ START FIX ------
-                // Divide by zero error when i = 1
+                // ------ START FIX 5 ------
+                // Run-Time Error: Divide by zero error when i = 1
                 //Console.WriteLine(i / (i - 1));
                 try
                 {
@@ -60,24 +60,24 @@ namespace Shaffer_PE2
                 {
                     Console.WriteLine("Undefined");
                 }
-                // ------ END FIX ------
+                // ------ END FIX 5 ------
 
                 // concatenate each number to allNumbers
                 allNumbers += i + " ";
 
                 // increment the counter
-                // ------ START FIX ------
-                // Counter already incremented in for loop
+                // ------ START FIX 6 ------
+                // Logic Error: Counter already incremented in for loop
                 //i = i + 1;
                 // Code removed
-                // ------ END FIX ------
+                // ------ END FIX 6 ------
             }
             // output all numbers which have been processed
-            // ------ START FIX ------
-            // Incorrect concatenation
+            // ------ START FIX 7------
+            // Compile-Time Error: Incorrect concatenation
             //Console.WriteLine("These numbers have been processed: " allNumbers);
             Console.WriteLine("These numbers have been processed: " + allNumbers);
-            // ------ END FIX ------
+            // ------ END FIX 7 ------
         }
     }
 }
