@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Shaffer_PE1 {
+namespace Shaffer_PE01 {
 
     // Class: Program
     // Author: Nicholas Shaffer

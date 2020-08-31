@@ -1,0 +1,7 @@
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE04-Q6\bin\Debug\Shaffer_PE04-Q6.exe.config
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE04-Q6\bin\Debug\Shaffer_PE04-Q6.exe
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE04-Q6\bin\Debug\Shaffer_PE04-Q6.pdb
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE04-Q6\obj\Debug\Shaffer_PE04-Q6.csproj.CoreCompileInputs.cache
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE04-Q6\obj\Debug\Shaffer_PE04-Q6.exe
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE04-Q6\obj\Debug\Shaffer_PE04-Q6.pdb
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE04-Q6\obj\Debug\Shaffer_PE04-Q6.csprojAssemblyReference.cache
