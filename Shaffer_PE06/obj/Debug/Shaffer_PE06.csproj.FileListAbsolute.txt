@@ -1,0 +1,7 @@
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE06\bin\Debug\Shaffer_PE06.exe.config
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE06\bin\Debug\Shaffer_PE06.exe
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE06\bin\Debug\Shaffer_PE06.pdb
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE06\obj\Debug\Shaffer_PE06.csprojAssemblyReference.cache
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE06\obj\Debug\Shaffer_PE06.csproj.CoreCompileInputs.cache
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE06\obj\Debug\Shaffer_PE06.exe
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE06\obj\Debug\Shaffer_PE06.pdb
