@@ -17,7 +17,7 @@ namespace Shaffer_PE04_Q2
             int var2 = 0;
 
             // Ask the user for two integers following stated parameters
-            Console.WriteLine("Enter two integers such that one is greater than 10 and the other is less than 10");
+            Console.WriteLine("Enter two integers");
 
             // If either of these are false, the user has entered either a non-integer, or an integer not following
             // the given parameters
@@ -42,7 +42,7 @@ namespace Shaffer_PE04_Q2
                     {
                         // Invalid input, ask again
                         validInts = false;
-                        Console.WriteLine("You must enter two integers, one greater than 10 and the other less than 10");
+                        Console.WriteLine($"You entered {var1} and {var2}. Enter two new integers");
                     }
                     else
                     {
@@ -54,7 +54,7 @@ namespace Shaffer_PE04_Q2
                 catch
                 {
                     // Non-Valid integers were entered
-                    Console.WriteLine("You must enter two integers, one greater than 10 and the other less than 10");
+                    Console.WriteLine("You must enter two integers");
                     intValue = false;
                 }
             }
