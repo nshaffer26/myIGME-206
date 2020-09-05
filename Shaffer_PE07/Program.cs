@@ -104,8 +104,10 @@ namespace Shaffer_PE07
             }
             while (!validResp);
 
+            // If the user does not want to play, skip to the end of the code
             if(!wantToPlay)
             {
+                // Go to line 218
                 goto skipGame;
             }
 
@@ -128,6 +130,7 @@ namespace Shaffer_PE07
                     validInt = false;
                 }
 
+                // Check if the user input is in the range [0,numLibs)
                 if (nChoice >= 0 && nChoice < numLibs)
                 {
                     validRange = true;
@@ -202,13 +205,15 @@ namespace Shaffer_PE07
                 }
                 else
                 {
+                    // Add the word to the finalMadLib string
                     finalMadLib += " " + thisWord;
                 }
             }
             Console.WriteLine($"\n\nYour Result:\n{finalMadLib}");
 
-            // Start over by asking the user if they want to play the game (again)
+            // Start over by resetting the MadLib and asking the user if they want to play the game
             finalMadLib = "";
+            // Go to line 65
             goto playGame;
 
             // The user does not want to play the game
