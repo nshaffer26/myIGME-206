@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{8A53CAA7-79B4-47D4-AC47-137953449D20}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Shaffer_PE3</RootNamespace>
-    <AssemblyName>Shaffer_PE3</AssemblyName>
+    <RootNamespace>Shaffer_PE03</RootNamespace>
+    <AssemblyName>Shaffer_PE03</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
