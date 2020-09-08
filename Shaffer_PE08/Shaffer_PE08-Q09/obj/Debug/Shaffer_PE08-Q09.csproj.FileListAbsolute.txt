@@ -1,0 +1,6 @@
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE08\Shaffer_PE08-Q09\bin\Debug\Shaffer_PE08-Q09.exe.config
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE08\Shaffer_PE08-Q09\bin\Debug\Shaffer_PE08-Q09.exe
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE08\Shaffer_PE08-Q09\bin\Debug\Shaffer_PE08-Q09.pdb
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE08\Shaffer_PE08-Q09\obj\Debug\Shaffer_PE08-Q09.csproj.CoreCompileInputs.cache
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE08\Shaffer_PE08-Q09\obj\Debug\Shaffer_PE08-Q09.exe
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE08\Shaffer_PE08-Q09\obj\Debug\Shaffer_PE08-Q09.pdb
