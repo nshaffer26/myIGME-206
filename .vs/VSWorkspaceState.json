@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Shaffer_PE07",
-    "\\Shaffer_PE07\\Resources"
+    "\\Shaffer_PE07\\Resources",
+    "\\Shaffer_PE08",
+    "\\Shaffer_PE08\\Shaffer_PE08-Q05",
+    "\\Shaffer_PE08\\Shaffer_PE08-Q07"
   ],
-  "SelectedNode": "\\Shaffer_PE07\\Resources\\MadLibsTemplate.txt",
+  "SelectedNode": "\\Shaffer_PE08\\Shaffer_PE08-Q05\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
