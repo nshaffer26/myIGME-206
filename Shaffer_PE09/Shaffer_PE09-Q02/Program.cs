@@ -2,6 +2,7 @@
 using System;
 using System.Threading;
 using System.Timers;
+using System.CodeDom;
 
 // Class: Program
 // Author: David Schuh
@@ -192,7 +193,11 @@ class Program
                     }
                     catch
                     {
-                        Console.WriteLine("Please enter an integer.");
+                        // If the user runs out of time, don't display this message
+                        if (!outOfTime)
+                        {
+                            Console.WriteLine("Please enter an integer.");
+                        }
                         bValid = false;
                     }
 
