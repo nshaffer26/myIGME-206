@@ -8,7 +8,9 @@ namespace Shaffer_PE11_Q06
         static void Main(string[] args)
         {
             Compact c = new Compact();
+            SUV s = new SUV();
             AddPassenger(c);
+            AddPassenger(s);
         }
 
         static void AddPassenger(IPassengerCarrier pc1)
