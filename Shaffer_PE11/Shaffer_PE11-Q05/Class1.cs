@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Shaffer_PE11_Q5
+namespace Shaffer_PE11_Q05
 {
     public abstract class Vehicle
     {
