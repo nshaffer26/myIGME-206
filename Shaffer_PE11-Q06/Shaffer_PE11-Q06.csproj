@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Shaffer_PE11-Q05">
+      <HintPath>..\Shaffer_PE11\Shaffer_PE11-Q05\bin\Debug\Shaffer_PE11-Q05.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

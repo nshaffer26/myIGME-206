@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Shaffer_PE11_Q05;
 
 namespace Shaffer_PE11_Q06
 {
@@ -10,6 +7,34 @@ namespace Shaffer_PE11_Q06
     {
         static void Main(string[] args)
         {
+            Compact c = new Compact();
+            AddPassenger(c);
+        }
+
+        static void AddPassenger(IPassengerCarrier pc1)
+        {
+            pc1.LoadPassenger();
+
+            if(pc1.GetType() == typeof(Compact))
+            {
+                Compact e = (Compact)pc1;
+                Console.WriteLine(e.ToString());
+            }
+            if (pc1.GetType() == typeof(SUV))
+            {
+                SUV e = (SUV)pc1;
+                Console.WriteLine(e.ToString());
+            }
+            if (pc1.GetType() == typeof(Pickup))
+            {
+                Pickup e = (Pickup)pc1;
+                Console.WriteLine(e.ToString());
+            }
+            if (pc1.GetType() == typeof(PassengerTrain))
+            {
+                PassengerTrain e = (PassengerTrain)pc1;
+                Console.WriteLine(e.ToString());
+            }
         }
     }
 }
