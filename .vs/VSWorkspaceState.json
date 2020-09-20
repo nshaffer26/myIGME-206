@@ -1,11 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Shaffer_PE01",
-    "\\Shaffer_PE08",
     "\\Shaffer_PE08\\Shaffer_PE08-Q05",
-    "\\Shaffer_PE08\\Shaffer_PE08-Q07"
+    "\\Shaffer_PE08\\Shaffer_PE08-Q05\\obj",
+    "\\Shaffer_PE08\\Shaffer_PE08-Q07",
+    "\\Shaffer_PE11",
+    "\\Shaffer_PE11\\Shaffer_PE11-Q5",
+    "\\Shaffer_PE11\\Shaffer_PE11-Q5\\bin",
+    "\\Shaffer_PE11\\Shaffer_PE11-Q5\\bin\\Debug"
   ],
-  "SelectedNode": "\\Shaffer_PE08\\Shaffer_PE08-Q05\\Program.cs",
+  "SelectedNode": "\\Shaffer_PE11\\Shaffer_PE11-Q5\\bin\\Debug",
   "PreviewInSolutionExplorer": false
 }
