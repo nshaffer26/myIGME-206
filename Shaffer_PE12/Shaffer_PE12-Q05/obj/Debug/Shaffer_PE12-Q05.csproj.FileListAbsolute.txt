@@ -1,0 +1,6 @@
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE12\Shaffer_PE12-Q05\bin\Debug\Shaffer_PE12-Q05.dll
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE12\Shaffer_PE12-Q05\bin\Debug\Shaffer_PE12-Q05.pdb
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE12\Shaffer_PE12-Q05\obj\Debug\Shaffer_PE12-Q05.csprojAssemblyReference.cache
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE12\Shaffer_PE12-Q05\obj\Debug\Shaffer_PE12-Q05.csproj.CoreCompileInputs.cache
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE12\Shaffer_PE12-Q05\obj\Debug\Shaffer_PE12-Q05.dll
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE12\Shaffer_PE12-Q05\obj\Debug\Shaffer_PE12-Q05.pdb
