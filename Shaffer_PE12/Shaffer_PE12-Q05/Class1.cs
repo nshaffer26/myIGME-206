@@ -108,7 +108,8 @@ namespace Shaffer_PE12_Q05
         }
         public Course(string courseCode, string description)
         {
-
+            this.courseCode = courseCode;
+            this.description = description;
         }
     }
 }
