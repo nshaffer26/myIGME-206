@@ -7,7 +7,7 @@ namespace Shaffer_PE12_Q05
     {
         public DateTime startTime;
         public DateTime endTime;
-        public List<DayOfWeek> daysOfWeek;
+        public List<DayOfWeek> daysOfWeek = new List<DayOfWeek>();
     }
 
     public class Courses
