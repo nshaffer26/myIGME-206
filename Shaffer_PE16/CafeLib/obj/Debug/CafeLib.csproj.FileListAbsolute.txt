@@ -1,0 +1,6 @@
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE16\CafeLib\bin\Debug\CafeLib.dll
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE16\CafeLib\bin\Debug\CafeLib.pdb
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE16\CafeLib\obj\Debug\CafeLib.csprojAssemblyReference.cache
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE16\CafeLib\obj\Debug\CafeLib.csproj.CoreCompileInputs.cache
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE16\CafeLib\obj\Debug\CafeLib.dll
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_PE16\CafeLib\obj\Debug\CafeLib.pdb
