@@ -215,10 +215,14 @@ namespace GameOfLife
                                     neighborCell = organism[row, col + 1];
                                     nextCell = organism[row, col + 1];
                                 }
-                                else if (row < MAX_ROWS - 1)
+                                else
                                 {
                                     neighborCell = organism[row, 0];
-                                    nextCell = organism[row + 1, 0];
+
+                                    if (row < MAX_ROWS - 1)
+                                    {
+                                        nextCell = organism[row + 1, 0];
+                                    }
                                 }
 
                                 break;
@@ -266,7 +270,16 @@ namespace GameOfLife
                                 }
                                 else
                                 {
-                                    neighborCell = organism[MAX_ROWS - 1, MAX_COLS - 1];
+                                    // if not first row
+                                    if (row > 0)
+                                    {
+                                        neighborCell = organism[row - 1, MAX_COLS - 1];
+                                    }
+                                    else if (col > 0)
+                                    {
+                                        // not first col
+                                        neighborCell = organism[MAX_ROWS - 1, col - 1];
+                                    }
                                 }
                                 break;
                             case (int)EDirection.topright:
@@ -277,7 +290,16 @@ namespace GameOfLife
                                 }
                                 else
                                 {
-                                    neighborCell = organism[MAX_ROWS - 1, 0];
+                                    // if not first row
+                                    if (row > 0)
+                                    {
+                                        neighborCell = organism[row - 1, 0];
+                                    }
+                                    else if (col < MAX_COLS - 1)
+                                    {
+                                        // not last col
+                                        neighborCell = organism[MAX_ROWS - 1, col + 1];
+                                    }
                                 }
                                 break;
                             case (int)EDirection.bottomleft:
@@ -288,7 +310,16 @@ namespace GameOfLife
                                 }
                                 else
                                 {
-                                    neighborCell = organism[0, MAX_COLS - 1];
+                                    // if not last row
+                                    if (row < MAX_ROWS - 1)
+                                    {
+                                        neighborCell = organism[row + 1, MAX_COLS - 1];
+                                    }
+                                    else if (col > 0)
+                                    {
+                                        // not first col
+                                        neighborCell = organism[0, col - 1];
+                                    }
                                 }
                                 break;
                             case (int)EDirection.bottomright:
@@ -299,7 +330,16 @@ namespace GameOfLife
                                 }
                                 else
                                 {
-                                    neighborCell = organism[0, 0];
+                                    // if not last row
+                                    if (row < MAX_ROWS - 1)
+                                    {
+                                        neighborCell = organism[row + 1, 0];
+                                    }
+                                    else if (col < MAX_COLS - 1)
+                                    {
+                                        // not last col
+                                        neighborCell = organism[0, col + 1];
+                                    }
                                 }
                                 break;
                         }
