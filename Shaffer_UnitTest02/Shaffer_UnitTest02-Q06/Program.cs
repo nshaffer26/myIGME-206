@@ -202,6 +202,9 @@ namespace Shaffer_UnitTest02_Q06
         {
             Tardis t1 = new Tardis();
             PhoneBooth pB1 = new PhoneBooth();
+
+            UsePhone(t1);
+            UsePhone(pB1);
         }
 
         static void UsePhone(object obj)
