@@ -1,0 +1,2 @@
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_UnitTest02\Shaffer_UnitTest02-Q06\obj\Debug\Shaffer_UnitTest02-Q06.csprojAssemblyReference.cache
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_UnitTest02\Shaffer_UnitTest02-Q06\obj\Debug\Shaffer_UnitTest02-Q06.csproj.CoreCompileInputs.cache
