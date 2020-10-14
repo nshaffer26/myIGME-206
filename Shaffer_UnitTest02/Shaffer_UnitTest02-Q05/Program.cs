@@ -117,6 +117,10 @@ namespace Shaffer_UnitTest02_Q04
         }
         public static bool operator <(Tardis t1, Tardis t2)
         {
+            if(t1.whichDrWho == t2.whichDrWho)
+            {
+                return false;
+            }
             if (t1.whichDrWho == 10)
             {
                 return false;
@@ -129,18 +133,26 @@ namespace Shaffer_UnitTest02_Q04
         }
         public static bool operator >(Tardis t1, Tardis t2)
         {
-            if (t1.whichDrWho == 10)
+            if (t1.whichDrWho == t2.whichDrWho)
             {
-                return true;
+                return false;
             }
             if (t2.whichDrWho == 10)
             {
                 return false;
             }
+            if (t1.whichDrWho == 10)
+            {
+                return true;
+            }
             return (t1.whichDrWho > t2.whichDrWho);
         }
         public static bool operator <=(Tardis t1, Tardis t2)
         {
+            if (t1.whichDrWho == t2.whichDrWho)
+            {
+                return true;
+            }
             if (t2.whichDrWho == 10)
             {
                 return true;
@@ -153,13 +165,17 @@ namespace Shaffer_UnitTest02_Q04
         }
         public static bool operator >=(Tardis t1, Tardis t2)
         {
-            if (t1.whichDrWho == 10)
+            if (t1.whichDrWho == t2.whichDrWho)
             {
                 return true;
             }
             if (t2.whichDrWho == 10)
             {
                 return false;
+            }
+            if (t1.whichDrWho == 10)
+            {
+                return true;
             }
             return (t1.whichDrWho >= t2.whichDrWho);
         }
