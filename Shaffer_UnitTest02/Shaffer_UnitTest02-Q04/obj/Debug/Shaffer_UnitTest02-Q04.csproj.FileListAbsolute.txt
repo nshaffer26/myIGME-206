@@ -1,0 +1,7 @@
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_UnitTest02\Shaffer_UnitTest02-Q04\bin\Debug\Shaffer_UnitTest02-Q04.exe.config
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_UnitTest02\Shaffer_UnitTest02-Q04\bin\Debug\Shaffer_UnitTest02-Q04.exe
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_UnitTest02\Shaffer_UnitTest02-Q04\bin\Debug\Shaffer_UnitTest02-Q04.pdb
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_UnitTest02\Shaffer_UnitTest02-Q04\obj\Debug\Shaffer_UnitTest02-Q04.csprojAssemblyReference.cache
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_UnitTest02\Shaffer_UnitTest02-Q04\obj\Debug\Shaffer_UnitTest02-Q04.csproj.CoreCompileInputs.cache
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_UnitTest02\Shaffer_UnitTest02-Q04\obj\Debug\Shaffer_UnitTest02-Q04.exe
+C:\Users\nshaf\OneDrive\Documents\_RIT\_School\Year 1\Semester 1\IGME 206\_GitHub\_nshaffer26\myIGME-206\Shaffer_UnitTest02\Shaffer_UnitTest02-Q04\obj\Debug\Shaffer_UnitTest02-Q04.pdb
