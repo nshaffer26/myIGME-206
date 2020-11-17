@@ -13,6 +13,7 @@ namespace Shaffer_PE22
 {
     class TriviaResult
     {
+        // What do these warning mean and how can I fix them?
         public string category;
         public string type;
         public string difficulty;
