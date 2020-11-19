@@ -329,6 +329,7 @@ namespace Shaffer_UnitTest03_Q2
         public RoomCell(room thisRoom)
         {
             this.thisRoom = thisRoom;
+            nextNodes = new List<(LinkedListNode<RoomCell>, int)>();
         }
     }
 }
